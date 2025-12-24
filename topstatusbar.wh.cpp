@@ -4,10 +4,11 @@
 // @description     A smart, auto-hiding top bar for multi-monitor setups with system shortcuts and resource monitoring.
 // @version         1.1.5
 // @author          AlexanderOG
-// @github          https://github.com/alexandr0g/topstatusbar
+// @github          https://github.com/alexandr0g/windhawk-mod-topstatusbar
 // @include         explorer.exe
 // @compilerOptions -ldwmapi -luser32 -lgdi32 -lshell32 -lgdiplus
 // ==/WindhawkMod==
+
 
 // ==WindhawkModSettings==
 /*
