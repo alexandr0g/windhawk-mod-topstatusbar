@@ -1,6 +1,6 @@
 # Top Status Bar
 
-![Preview](screenshots/screenshot%20.png)
+![Preview](screenshots/screenshot.png)
 
 
 ---
