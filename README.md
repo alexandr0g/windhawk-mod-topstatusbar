@@ -1,8 +1,7 @@
 # Top Status Bar
 
-![Preview](screenshots/screenshot%20(1).png)
+![Preview](screenshots/screenshot%20.png)
 
-![Settings](screenshots/screenshot%20(2).png)
 
 ---
 # Top Status Bar
